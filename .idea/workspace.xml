@@ -4,7 +4,7 @@
     <list default="true" id="14278676-3a7b-4677-b6c1-81e2430397b8" name="Default" comment="" />
     <ignored path="backboneConf.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/template.html" changelist="14278676-3a7b-4677-b6c1-81e2430397b8" time="1375283647113" ignored="false" />
+    <file path="/template.html" changelist="14278676-3a7b-4677-b6c1-81e2430397b8" time="1375284261377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/io-2013-slides/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="250" column="75" selection-start="10732" selection-end="10732" vertical-scroll-proportion="0.6227758">
+            <state line="226" column="25" selection-start="9650" selection-end="9650" vertical-scroll-proportion="0.19572954">
               <folding>
                 <element signature="n#style#0;n#div#1;n#article#0;n#slide#19;n#slides#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#slide#21;n#slides#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -376,7 +376,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/io-2013-slides/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="75" selection-start="10732" selection-end="10732" vertical-scroll-proportion="0.6227758">
+        <state line="226" column="25" selection-start="9650" selection-end="9650" vertical-scroll-proportion="0.19572954">
           <folding>
             <element signature="n#style#0;n#div#1;n#article#0;n#slide#19;n#slides#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#slide#21;n#slides#0;n#body#0;n#html#0;n#!!top" expanded="true" />

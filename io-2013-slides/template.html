@@ -224,6 +224,7 @@ URL: https://code.google.com/p/io-2012-slides
   <slide>
       <hgroup>
           <h2>Trevor Landau: TDD</h2>
+          <h6>github.com/landau/tddbackbone</h6>
       </hgroup>
       <article>
           <ul>
@@ -240,7 +241,7 @@ URL: https://code.google.com/p/io-2012-slides
               </li>
               <li>How to TDD
                 <ul>
-                    <li>TestRunner: Mocha, Jasmine, qUnit</li>
+                    <li>TestRunner: Mocha (chai, sinon), Jasmine, qUnit</li>
                     <li>Asertion Library</li>
                     <li>... (basics of unit testing) ...</li>
                     <li>mocha looks nicer than jasmine</li>
@@ -249,6 +250,18 @@ URL: https://code.google.com/p/io-2012-slides
                     <li>What not to test: backbone, jquery, db, ...</li>
                     <li>Address blindspots (devs who write code, write tests) with good code reviews</li>
                     <li>Integration Testing: Interaction between components</li>
+                    <li>Questions:
+                        <ul>
+                            <li class="notable">Why not Jasmine?: it's terrible with async! Mocha + chai + sinon does it well!</li>
+                            <li>Code coverage recommendation: jsCoverage</li>
+                            <li class="notable">Node/phantom test coverage: Selenium, testacular -> karma, (unnamed) the one that comes with Angular</li>
+                            <li>Grunt package recommendations: grunt template, coffeeScript, grunt connect (generate coffeescript files on the fly) and pass in MT</li>
+                            <li>Sinon can mock in fake data with XHR, Chai can check DOM</li>
+                            <li>JSDom: fakes the DOM for really fast DOM testing</li>
+                            <li>with Backbone: render views in memory</li>
+                            <li>Functional testing vs Unit testing? </li>
+                        </ul>
+                    </li>
                 </ul>
               </li>
           </ul>
